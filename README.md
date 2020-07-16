@@ -2,7 +2,7 @@
 >
 A **MERN Stack Developer** from Kolkata, WB, INDIA and have keen interest in JavaScript.
 >
-I am passionate about learning new Technologies...
+I am passionate about learning new Programming Technologies...
 >
 <code>feel free to check out my [Portfolio](https://mdnmnahmed.github.io/portfolio/)</code>
 >
