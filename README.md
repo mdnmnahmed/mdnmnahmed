@@ -1,6 +1,6 @@
 # Hey there, i'm Numan 👋
 >
-A **MERN Stack Developer** from Kolkata, WB, INDIA 🇮🇳 and have keen interest in JavaScript.
+A **Full Stack JavaScript Developer** from Kolkata, WB, INDIA 🇮🇳 and have keen interest in JavaScript.
 >
 I am passionate about learning new Programming Technologies...
 >
