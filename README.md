@@ -9,7 +9,7 @@
 
 A **Full Stack JS Developer** from `City of Joy`, INDIA 🇮🇳 and have keen interest in 🧡 **`JavaScript`** 💚.
 
->I am passionate about learning new Programming Technologies...
+>Passionate about learning new Programming Technologies...
 </div>
 <div  align='center'>
 <img  src="https://github-readme-stats.vercel.app/api?username=mdnmnahmed&theme=dark&show_icons=true&count_private=true" height="207px"  />
