@@ -2,7 +2,7 @@
 <h1>Hey 👋, Numan here!</h1>
 <h3>Full Stack JS Developer</h3>
 <div  width="50%">
-<img  src="https://github.com/mdnmnahmed/personal-resourses/blob/master/numan-alone.png?raw=true"/>
+<img  src="https://github.com/mdnmnahmed/personal-resourses/blob/master/numan%20bg.png?raw=true" />
 </div>
 
 <code>feel free to check out my [Portfolio](https://mdnmnahmed.github.io/portfolio/)</code>
