@@ -11,8 +11,8 @@ A **Full Stack JS Developer** from `City of Joy`, INDIA 🇮🇳 and have keen i
 
 >Passionate about learning new Programming Technologies...
 </div>
-<div  align='center'>
+<div  align=''>
 <img  src="https://github-readme-stats.vercel.app/api?username=mdnmnahmed&theme=dark&show_icons=true&count_private=true" height="207px"  />
-<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnmnahmed&theme=dark" height="207px"  />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnmnahmed" height="300px"  />
 </div>
 </div>
